@@ -1,5 +1,5 @@
 {
-  "name": "random-string",
+  "name": "@lamhotsimamora/random-string",
   "version": "1.0.0",
   "description": "generator for random string",
   "main": "randomString.js",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/lamhotsimamora/random-string-js/issues"
   },
-  "homepage": "https://github.com/lamhotsimamora/random-string-js#readme"
+  "homepage": "https://github.com/lamhotsimamora/random-string-js#readme",
+  "dependencies": {
+    "random-string": "^1.0.0"
+  },
+  "devDependencies": {}
 }
