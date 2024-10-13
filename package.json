@@ -1,0 +1,23 @@
+{
+  "name": "random-string",
+  "version": "1.0.0",
+  "description": "generator for random string",
+  "main": "randomString.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamhotsimamora/random-string-js.git"
+  },
+  "keywords": [
+    "random",
+    "string"
+  ],
+  "author": "lamhotsimamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamhotsimamora/random-string-js/issues"
+  },
+  "homepage": "https://github.com/lamhotsimamora/random-string-js#readme"
+}
